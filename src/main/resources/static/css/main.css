@@ -1,0 +1,223 @@
+div.header-bottom{
+        padding: 20px 0; background: #129fd8;
+        color: #6495ED;}
+a.hotline-link{color: Gold;
+        border-right: 1px solid rgba(0,0,0,0.2);}
+
+p.company{color: #FFF8DC;
+        font-size:40px;
+        font-style: italic;
+        padding-right: 5px;
+        border-right: 1px solid rgba(0,0,0,0.2);
+
+}
+
+
+
+ul.nav.navbar-nav.menu_hori{
+    background: #129fd8;
+    color: #fff;
+
+
+}
+
+#main_nav .menu_hori {
+    float: none;
+}
+@media (min-width: 768px)
+.navbar-nav {
+    float: left;
+    margin: 0;
+}
+.navbar-nav {
+    margin: 7.5px -15px;
+}
+#main_head{
+    padding-left: 135px;
+    position: absolute;
+}
+
+.nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.title_block {
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0px;
+    color: #FFFFFF;
+    display: block;
+    background: #00709d;
+    -webkit-box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+#DHS_megamenu {
+    position: relative;
+    text-align: left;
+}
+
+
+.navbar_menuvertical .nav_verticalmenu>li {
+    width: 100%;
+    border-bottom: 1px solid #dddddc;
+    position: inherit;
+
+}
+@media (min-width: 992px)
+.width-20 {
+    float: left;
+}
+
+
+#container_header {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 300px;
+}
+.navbar-nav {
+    margin: 0px;
+}
+#col3{
+position: relative;
+    min-height: 1px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+#col9{
+position: relative;
+    min-height: 1px;
+    padding-right: 0;
+    padding-left: 0;
+        width: 62,9%;
+}
+p.hotline_shipping{
+color: #FFF8DC;
+        font-size:40px;
+        font-style: italic;
+        padding-right: 5px;
+        border-right: 1px solid rgba(0,0,0,0.2);
+}
+main{
+display:block;}
+#main_product{
+top:300px;
+}
+.carousel {
+          position: relative;
+          width:500px;
+                     }
+
+.box-service {
+    margin-top: 20px;
+    display: flex;
+    display: -webkit-flex;
+    -moz-align-items: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+#service{
+        padding: 10px ; background: #CCFFCC;
+        color: #CCFFCC;
+}
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+    }
+
+    .carousel-inner {
+        position: relative;
+        width: 100%;
+        overflow: visible;
+    }
+.placeSlide_with{
+width: 1300px;
+}
+.camket_chatluong {
+    background: #eee;
+    margin-right: 15px;
+    width: 259px;
+    float: left;
+    padding: 15px;
+}
+.clr {
+    clear: both;
+    text-decoration-style:dashed;
+}
+.placeSlide_main {
+    position: relative;
+    /* overflow: hidden; */
+}
+.placeSlide_page {
+    width: 1000px;
+}
+.left_conten {
+    float: left;
+    width: 960px;
+}
+.box_id {
+    margin-top: 20px;
+}
+.title_page_home {
+    border-bottom: solid #ccc 1px;
+    margin-bottom: 20px;
+    padding-bottom: 7px;
+}
+.discount-tag {
+    position: absolute;
+    background: #ff6600;
+    width: 55px;
+    height: 55px;
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+    line-height: 55px;
+    margin-top: 10px;
+    margin-left: 10px;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    cursor: default;
+    z-index: 2;
+    border-radius: 100%;
+    font-size: 17px;
+}
+span.discout {
+    font-size: 14px;
+    padding-left: 10px;
+    font-weight: bold;
+    color: #333;
+    text-decoration: line-through;
+}
+
+.btn-lg {
+    padding: 10px 450px;
+    border-radius: 1.333;
+    font-size: 20px;
+    line-height: 2;
+    border-radius: 30px;
+    background-color: #FF6600;
+
+}
+#footer{
+    background: #D3D3D3;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: solid #fff 1px;
+}
+#footer_left{
+margin-left:150px;
+    width: 30%;
+}
